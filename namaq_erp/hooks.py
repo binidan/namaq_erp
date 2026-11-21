@@ -279,3 +279,13 @@ app_license = "mit"
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
 
+# Fixtures for tracking customizations in Git
+fixtures = [
+	{"dt": "Custom Field"},
+	{"dt": "Property Setter"},
+	{"dt": "Print Format"},
+	{"dt": "Workflow"},
+	{"dt": "Workflow State"},
+	{"dt": "Workflow Action Master"},
+]
+
