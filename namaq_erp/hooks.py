@@ -287,5 +287,8 @@ fixtures = [
 	{"dt": "Workflow"},
 	{"dt": "Workflow State"},
 	{"dt": "Workflow Action Master"},
+	{"dt": "Client Script"},
+	{"dt": "Server Script"},
+	{"dt": "Custom DocPerm"},
 ]
 
